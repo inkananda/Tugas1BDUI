@@ -1,0 +1,5 @@
+/*----------Akses Login--------*/
+/*INPUT DAFTAR KARYAWAN*/
+
+NIK		: 10045320
+Password	: semangatjos123
